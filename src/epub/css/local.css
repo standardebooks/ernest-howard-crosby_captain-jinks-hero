@@ -71,3 +71,7 @@ p span.i9{
 	text-indent: -1em;
 }
 /* End verse */
+
+q{
+	font-style: italic;
+}
