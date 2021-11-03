@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ernest-howard-crosby/captain-jinks-hero</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-11-03T20:49:47Z</dc:date>
+		<meta property="dcterms:modified">2021-11-03T20:49:47Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,13 +43,13 @@
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A biting satire of late 19th-century American imperialism, &lt;i&gt;Captain Jinks, Hero&lt;/i&gt; was written by the American pacifist &lt;a href="https://standardebooks.org/ebooks/ernest-howard-crosby"&gt; Ernest Howard Crosby&lt;/a&gt;. Crosby, who corresponded with &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; and advocated Tolstoy’s pacifist ideals in the United States, lambasts the American military and its involvement in the Spanish-American War and the Boxer Rebellion through the character of Captain Jinks, a jingoistic officer who embarks on a tragicomic quest to become a “perfect soldier.” The novel also satirizes the role of industrial and media interests in promoting war through the character of Jinks’s friend and companion Cleary, a yellow journalist who feeds sensational stories back to the homefront at the behest of editors and monopolists.&lt;/p&gt;
+			&lt;p&gt;A biting satire of late 19th-century American imperialism, &lt;i&gt;Captain Jinks, Hero&lt;/i&gt; was written by the American pacifist &lt;a href="https://standardebooks.org/ebooks/ernest-howard-crosby"&gt;Ernest Howard Crosby&lt;/a&gt;. Crosby, who corresponded with &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; and advocated Tolstoy’s pacifist ideals in the United States, lambasts the American military and its involvement in the Spanish-American War and the Boxer Rebellion through the character of Captain Jinks, a jingoistic officer who embarks on a tragicomic quest to become a “perfect soldier.” The novel also satirizes the role of industrial and media interests in promoting war through the character of Jinks’s friend and companion Cleary, a yellow journalist who feeds sensational stories back to the home front at the behest of editors and monopolists.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19353</dc:source>
 		<dc:source>https://archive.org/details/captainjinkshero00crosiala</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">69015</meta>
+		<meta property="se:reading-ease.flesch">73.27</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ernest-howard-crosby_captain-jinks-hero</meta>
 		<dc:creator id="author">Ernest Howard Crosby</dc:creator>
 		<meta property="file-as" refines="#author">Crosby, Ernest Howard</meta>
@@ -80,6 +80,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
