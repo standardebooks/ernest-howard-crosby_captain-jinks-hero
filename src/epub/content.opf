@@ -41,7 +41,7 @@
 		<meta property="term" refines="#subject-3">sh85104355</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:abstract>A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”</dc:abstract>
+		<meta property="schema:abstract">A jingoistic military officer embarks on a tragicomic quest to become a “perfect soldier.”</meta>
 		<dc:description>
 			&lt;p&gt;A biting satire of late 19th-century American imperialism, &lt;i&gt;Captain Jinks, Hero&lt;/i&gt; was written by the American pacifist &lt;a href="https://standardebooks.org/ebooks/ernest-howard-crosby"&gt;Ernest Howard Crosby&lt;/a&gt;. Crosby, who corresponded with &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; and advocated Tolstoy’s pacifist ideals in the United States, lambasts the American military and its involvement in the Spanish-American War and the Boxer Rebellion through the character of Captain Jinks, a jingoistic officer who embarks on a tragicomic quest to become a “perfect soldier.” The novel also satirizes the role of industrial and media interests in promoting war through the character of Jinks’s friend and companion Cleary, a yellow journalist who feeds sensational stories back to the home front at the behest of editors and monopolists.&lt;/p&gt;
 		</dc:description>
